@@ -15,7 +15,6 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: ZianTT Status
   introTitle: "Project Status maintained by ZianTT"
-  introMessage: 
   introMessage: This is a status page which displays some project statuses maintained by ZianTT
   navbar:
     - title: Status
