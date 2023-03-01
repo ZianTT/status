@@ -16,11 +16,12 @@ status-website:
   name: ZianTT Status
   introTitle: "Project Status maintained by ZianTT"
   introMessage: This is a status page which displays some project statuses maintained by ZianTT
+  publish: true
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Blog
+      href: https://ziantt.top
   
 i18n:
   footer: This page is powered by [ZianTT](https://ziantt.top)<br>本页面由[ZianTT](https://ziantt.top)强力驱动喵
