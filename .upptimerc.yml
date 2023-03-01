@@ -55,19 +55,19 @@ i18n:
   partialOutage: "🟧 有些不可以哦"
   activeIncidents: 处理中的事件
   incidentReport: "事件 #$NUMBER 的报告 →"
-  activeIncidentSummary: Opened at $DATE with $POSTS posts
-  incidentTitle: Incident $NUMBER Details
+  activeIncidentSummary: 在 $DATE 时开始，已更新 $POSTS 次状态喵
+  incidentTitle: 事件 $NUMBER 的详细内容
   incidentDetails: 事件详情
   incidentFixed: 已修复
   incidentOngoing: Ongoing
-  incidentOpenedAt: Opened at
-  incidentClosedAt: Closed at
+  incidentOpenedAt: 开始于
+  incidentClosedAt: 结束于
   incidentSubscribe: 订阅更新
   incidentViewOnGitHub: 在 GitHub 上 查看
-  incidentCommentSummary: Posted at $DATE by $AUTHOR
+  incidentCommentSummary: 由 $AUTHOR 在 DATE 发布
   incidentBack: ← 返回到所有事件
   pastIncidents: 过去事件
-  pastIncidentsResolved: Resolved in $MINUTES minutes with $POSTS posts
+  pastIncidentsResolved: 在 $MINUTES 分钟内还有 $POSTS 次状态更新就干掉了喵
   overallUptime: "总Uptime: $UPTIME"
   overallUptimeTitle: 总Uptime
   averageResponseTime: "平均响应时间: $TIMEms"
@@ -93,6 +93,21 @@ i18n:
   errorIntro: 当获取最新Status信息时，出错了喵
   errorText: 过一会再刷新喵
   errorHome: 回到窝里
+  pastScheduledMaintenance: 以前的计划维护
+  scheduledMaintenance: 计划维护
+  scheduledMaintenanceSummaryStarted: 已于 $DATE 时开始，已维护 $DURATION 分钟喵
+  scheduledMaintenanceSummaryStarts: 于 $DATE 时开始，维护 $DURATION 分钟喵
+  startedAt: 已开始于
+  startsAt: 开始于
+  duration: 时长
+  durationMin: $DURATION 分钟
+  incidentCompleted: 完成
+  incidentScheduled: 计划
+  duration24H: 24小时
+  duration7D: 7天
+  duration30D: 30天
+  duration1Y: 1年
+  durationAll: 全部
 
 skipDescriptionUpdate: true
 
