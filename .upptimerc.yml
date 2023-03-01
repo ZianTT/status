@@ -23,7 +23,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
   
 i18n:
-  footer: This page is powered by [ZianTT](https://ziantt.top)\n本页面由[ZianTT](https://ziantt.top)强力驱动喵
+  footer: This page is powered by [ZianTT](https://ziantt.top)<br>本页面由[ZianTT](https://ziantt.top)强力驱动喵
   url: "URL"
   status: "Status"
   history: "历史记录"
@@ -32,7 +32,7 @@ i18n:
   up: "🟩 在线"
   degraded: "🟨 有些不可以哦"
   down: "🟥 寄了"
-  responseTimeGraphAlt: "Response time graph"
+  responseTimeGraphAlt: "响应时间趋势"
   Time: "响应时间"
   responseTimeDay: "24-hour response time"
   responseTimeWeek: "7-day response time"
@@ -44,27 +44,27 @@ i18n:
   uptimeYear: "1-year uptime"
   liveStatus: "当前Status"
   liveStatusHtmlComment: "<!--live status-->"
-  allSystemsOperational: "🟩 All systems operational"
-  degradedPerformance: "🟨 Degraded performance"
-  completeOutage: "🟥 Complete outage"
-  partialOutage: "🟧 Partial outage"
-  activeIncidents: Active Incidents
-  incidentReport: "Incident #$NUMBER report →"
+  allSystemsOperational: "🟩 都在哦"
+  degradedPerformance: "🟨 可能会不太稳喵"
+  completeOutage: "🟥 都寄了"
+  partialOutage: "🟧 有些不可以哦"
+  activeIncidents: 处理中的事件
+  incidentReport: "事件 #$NUMBER 的报告 →"
   activeIncidentSummary: Opened at $DATE with $POSTS posts
   incidentTitle: Incident $NUMBER Details
-  incidentDetails: Incident Details
-  incidentFixed: Fixed
+  incidentDetails: 事件详情
+  incidentFixed: 已修复
   incidentOngoing: Ongoing
   incidentOpenedAt: Opened at
   incidentClosedAt: Closed at
-  incidentSubscribe: Subscribe to Updates
-  incidentViewOnGitHub: View on GitHub
+  incidentSubscribe: 订阅更新
+  incidentViewOnGitHub: 在 GitHub 上 查看
   incidentCommentSummary: Posted at $DATE by $AUTHOR
-  incidentBack: ← Back to all incidents
-  pastIncidents: Past Incidents
+  incidentBack: ← 返回到所有事件
+  pastIncidents: 过去事件
   pastIncidentsResolved: Resolved in $MINUTES minutes with $POSTS posts
-  overallUptime: "Overall uptime: $UPTIME"
-  overallUptimeTitle: Overall uptime
+  overallUptime: "总Uptime: $UPTIME"
+  overallUptimeTitle: 总Uptime
   averageResponseTime: "平均响应时间: $TIMEms"
   averageResponseTimeTitle: 平均响应时间
   sevelDayResponseTime: 7天内 响应时间
