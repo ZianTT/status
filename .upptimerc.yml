@@ -18,6 +18,7 @@ status-website:
   introMessage: This is a status page which displays some project statuses maintained by ZianTT<br>这是个由ZianTT维护的项目们的状态页喵
   publish: true
   apiBaseUrl: https://gh-api.bitf1a5h.eu.org
+  userContentBaseUrl: https://gh-usercontent.bitf1a5h.eu.org
   navbar:
     - title: Status
       href: /
