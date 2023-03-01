@@ -5,6 +5,8 @@ repo: status # The name of this repository
 sites:
   - name: Blog
     url: https://ziantt.top
+  - name: Status Page
+    url: https://status.ziantt.top
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -14,7 +16,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://npm.elemecdn.com/ziantt-blog-assets/img/avatar.jpg
   name: ZianTT Status
-  introTitle: "Project Status of ZianTT<br>ZianTT的Status"
+  introTitle: "ZianTT的Status"
   introMessage: This is a status page which displays some project statuses maintained by ZianTT<br>这是个由ZianTT维护的项目们的状态页喵
   publish: true
   apiBaseUrl: https://gh-api.bitf1a5h.eu.org
@@ -32,9 +34,9 @@ i18n:
   history: "历史记录"
   responseTime: "响应时间"
   uptime: "Uptime"
-  up: "🟩 在线"
-  degraded: "🟨 有些不可以哦"
-  down: "🟥 寄了"
+  up: "在的哦"
+  degraded: "可能会不太稳喵"
+  down: "寄了"
   responseTimeGraphAlt: "响应时间趋势"
   Time: "响应时间"
   responseTimeDay: "24-hour response time"
