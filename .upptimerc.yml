@@ -95,8 +95,8 @@ i18n:
   errorHome: 回到窝里
   pastScheduledMaintenance: 以前的计划维护
   scheduledMaintenance: 计划维护
-  scheduledMaintenanceSummaryStarted: 已于 $DATE 时开始，已维护 $DURATION 分钟喵
-  scheduledMaintenanceSummaryStarts: 于 $DATE 时开始，维护 $DURATION 分钟喵
+  scheduledMaintenanceSummaryStarted: 已于 $DATE 时开始，预计维护 $DURATION 分钟喵
+  scheduledMaintenanceSummaryStarts: 于 $DATE 时开始，预计维护 $DURATION 分钟喵
   startedAt: 已开始于
   startsAt: 开始于
   duration: 时长
@@ -110,6 +110,8 @@ i18n:
   durationAll: 全部
 
 skipDescriptionUpdate: true
+skipTopicsUpdate: true
+skipHomepageUpdate: true
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
