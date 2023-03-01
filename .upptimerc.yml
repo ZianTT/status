@@ -12,11 +12,12 @@ status-website:
   # cname: demo.upptime.js.org
   cname: status.ziantt.top
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://npm.elemecdn.com/ziantt-blog-assets/img/avatar.jpg
   name: ZianTT Status
-  introTitle: "Project Status maintained by ZianTT"
-  introMessage: This is a status page which displays some project statuses maintained by ZianTT
+  introTitle: "Project Status of ZianTT<br>ZianTT的Status"
+  introMessage: This is a status page which displays some project statuses maintained by ZianTT<br>这是个由ZianTT维护的项目们的状态页喵
   publish: true
+  apiBaseUrl: https://gh-api.bitf1a5h.eu.org
   navbar:
     - title: Status
       href: /
