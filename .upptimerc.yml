@@ -21,6 +21,79 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+  
+i18n:
+  footer: This page is powered by [ZianTT](https://ziantt.top)\n本页面由[ZianTT](https://ziantt.top)强力驱动喵
+  url: "URL"
+  status: "Status"
+  history: "历史记录"
+  responseTime: "响应时间"
+  uptime: "Uptime"
+  up: "🟩 在线"
+  degraded: "🟨 有些不可以哦"
+  down: "🟥 寄了"
+  responseTimeGraphAlt: "Response time graph"
+  ms: "ms"
+  Time: "响应时间"
+  responseTimeDay: "24-hour response time"
+  responseTimeWeek: "7-day response time"
+  responseTimeMonth: "30-day response time"
+  responseTimeYear: "1-year response time"
+  uptime: "All-time uptime"
+  uptimeDay: "24-hour uptime"
+  uptimeWeek: "7-day uptime"
+  uptimeMonth: "30-day uptime"
+  uptimeYear: "1-year uptime"
+  liveStatus: "Live Status"
+  liveStatusHtmlComment: "<!--live status-->"
+  allSystemsOperational: "🟩 All systems operational"
+  degradedPerformance: "🟨 Degraded performance"
+  completeOutage: "🟥 Complete outage"
+  partialOutage: "🟧 Partial outage"
+  activeIncidents: Active Incidents
+  allSystemsOperational: All systems are operational
+  incidentReport: "Incident #$NUMBER report →"
+  activeIncidentSummary: Opened at $DATE with $POSTS posts
+  incidentTitle: Incident $NUMBER Details
+  incidentDetails: Incident Details
+  incidentFixed: Fixed
+  incidentOngoing: Ongoing
+  incidentOpenedAt: Opened at
+  incidentClosedAt: Closed at
+  incidentSubscribe: Subscribe to Updates
+  incidentViewOnGitHub: View on GitHub
+  incidentCommentSummary: Posted at $DATE by $AUTHOR
+  incidentBack: ← Back to all incidents
+  pastIncidents: Past Incidents
+  pastIncidentsResolved: Resolved in $MINUTES minutes with $POSTS posts
+  liveStatus: 当前Status
+  overallUptime: "Overall uptime: $UPTIME"
+  overallUptimeTitle: Overall uptime
+  averageResponseTime: "平均响应时间: $TIMEms"
+  averageResponseTimeTitle: 平均响应时间
+  sevelDayResponseTime: 7天内 响应时间
+  responseTimeMs: 响应时间 (ms)
+  ms: ms
+  loading: 爬爬爬...
+  navGitHub: GitHub
+  rateLimitExceededTitle: Rate limit exceedeed
+  rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
+  rateLimitExceededWhatDoesErrorMean: What does this error mean?
+  rateLimitExceededErrorMeaning: This website uses the GitHub API to access real-time data about our websites' status. By default, GitHub allows each IP address 60 requests per hour, which you have consumed.
+  rateLimitExceededErrorHowCanFix: How can I fix it?
+  rateLimitExceededErrorFix: You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour.
+  rateLimitExceededGeneratePAT: Learn how to generate a Personal Access Token
+  rateLimitExceededHasSet: You have a personal access token set.
+  rateLimitExceededRemoveToken: Remove token
+  rateLimitExceededGitHubPAT: GitHub Personal Access Token
+  rateLimitExceededCopyPastePAT: Copy and paste your token
+  rateLimitExceededSaveToken: Save token
+  errorTitle: 出现错误
+  errorIntro: 当获取最新Status信息时，出错了喵
+  errorText: 过一会再刷新喵
+  errorHome: 回到窝里
+
+skipDescriptionUpdate: true
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
